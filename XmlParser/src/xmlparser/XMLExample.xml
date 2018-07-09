@@ -1,0 +1,19 @@
+<Company>
+
+    <staff id="2001">
+		<details
+                    name = "Fabusuyi"
+                    department = "Computer science"
+                />
+	</staff>
+
+	<staff id="2002">
+		<details
+                    name = "Adetoba"
+                    department = "Computer science"
+                />
+		
+	</staff>
+
+
+</Company>
